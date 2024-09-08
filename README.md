@@ -7,10 +7,10 @@
   <a href="https://twitter.com/yourtwitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://instagram.com/yourinstagram" target="_blank">
+  <a href="https://www.instagram.com/ishaangupta___/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:ishaang2209@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
