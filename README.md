@@ -1,6 +1,6 @@
-# 👋 **Hi there! I'm [Ishaan Gupta]**
+# 👋 **Hi there! I'm Ishaan Gupta**
 
-## I'm a **Frontend Developer** who loves building interactive and responsive web applications.
+##❤️ I'm a **Frontend Developer** who loves building interactive and responsive web applications.
 
 ## 🛠 **Tech I Work With**
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, React.js
@@ -15,5 +15,6 @@
 ## 🌐 **Let's Connect**
 - **Portfolio**: [Your Portfolio](https://your-portfolio.com)
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourname)
+- **Instagram**: [Your Instagram](https://your-instagram.com)
 - **Email**: ishaang2209@gmail.com
 
