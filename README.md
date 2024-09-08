@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ishaangupta122
+# Ishaan Gupta
+- 👋 Hi, I’m Ishaan Gupta
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate with Active Users
