@@ -5,13 +5,13 @@
 Hi, I'm **Ishaan Gupta**, a passionate **Frontend Developer**. I specialize in building responsive, user-friendly web applications using modern web technologies like **MERN Stack**.
 
 <p>
-  <a href="https://www.linkedin.com/in/ishaan-gupta-a5b56a2a6/" target="_blank">
+  <a href="https://www.linkedin.com/in/ishaangupta05/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/ishaangupta___/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-<a href="https://x.com/ishaang2209" target="_blank">
+<a href="https://x.com/ishaangupta05" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
 </a>
   <a href="mailto:ishaang2209@gmail.com" target="_blank">
