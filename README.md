@@ -1,20 +1,35 @@
-# 👋 **Hi there! I'm Ishaan Gupta**
+<h1>Ishaan Gupta</h1>
 
-###  I'm a **🧡Frontend Developer** who loves building interactive and responsive web applications.
+<p>
+  <a href="https://www.linkedin.com/in/ishaan-gupta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourtwitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://instagram.com/yourinstagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-## 🛠 **Tech I Work With**
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, React.js
+## 🌟 About Me
+Hi, I'm **Ishaan Gupta**, a passionate **Frontend Developer**. I specialize in building responsive, user-friendly web applications using modern web technologies like **MERN Stack**.
+
+- 🔭 **Currently working on**: **Freelance services** for web development, including creating responsive websites and user interfaces.
+- 🌱 **Learning**: Advanced JavaScript, Python, and UX Design
+- 💬 **Ask me about**: Web Development, React, and UI/UX Design
+
+## 🛠 Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript, React, TailwindCSS, Bootstrap
 - **Backend**: Node.js, Express, MongoDB
 - **Tools**: Git, GitHub, VS Code
-  
-## 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
-
-
-## 🌐 **Let's Connect**
-- **Portfolio**: [Your Portfolio](https://your-portfolio.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourname)
-- **Instagram**: [Your Instagram](https://your-instagram.com)
-- **Email**: ishaang2209@gmail.com
-
+## 📈 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Ishaan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Ishaan's Top Languages" />
+</p>
