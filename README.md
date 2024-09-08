@@ -30,6 +30,7 @@ Hi, I'm **Ishaan Gupta**, a passionate **Frontend Developer**. I specialize in b
 
 ## 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Ishaan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Ishaan's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaangupta122&theme=radical" alt="Ishaan's Top Languages" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishaangupta122&show_icons=true&theme=radical" alt="Ishaan's GitHub stats" width="500px"/>
 </p>
+
