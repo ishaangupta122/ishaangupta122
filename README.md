@@ -1,6 +1,4 @@
-<h1>Ishaan Gupta</h1>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&repeat=false&vCenter=true&width=800&color=yellow&lines=Ishaan+Gupta)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&repeat=false&vCenter=true&width=800&color=00FF00&lines=Ishaan+Gupta)
 
 <p>
   <a href="https://www.linkedin.com/in/ishaan-gupta" target="_blank">
