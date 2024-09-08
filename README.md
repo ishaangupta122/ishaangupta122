@@ -1,8 +1,6 @@
-# 💻 **Welcome to My GitHub!** 👋
-
 # 👋 **Hi there! I'm [Ishaan Gupta]**
 
-### I'm a **Frontend Developer** who loves building intuitive and responsive web applications.
+### I'm a **Frontend Developer** who loves building interactive and responsive web applications.
 
 ## 🛠 **Tech I Work With**
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, React.js
