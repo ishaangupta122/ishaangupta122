@@ -1,4 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&repeat=false&vCenter=true&width=800&color=00FF00&lines=Ishaan+Gupta)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&repeat=false&vCenter=true&width=800&color=ff4f4f&lines=Ishaan+Gupta)
+
+
+## 🌟 About Me
+Hi, I'm **Ishaan Gupta**, a passionate **Frontend Developer**. I specialize in building responsive, user-friendly web applications using modern web technologies like **MERN Stack**.
 
 <p>
   <a href="https://www.linkedin.com/in/ishaan-gupta-a5b56a2a6/" target="_blank">
@@ -14,13 +18,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
-## 🌟 About Me
-Hi, I'm **Ishaan Gupta**, a passionate **Frontend Developer**. I specialize in building responsive, user-friendly web applications using modern web technologies like **MERN Stack**.
-
-- 🔭 **Currently working on**: **Freelance services** for web development, including creating responsive websites and user interfaces.
-- 🌱 **Learning**: Advanced JavaScript, Python, and UX Design
-- 💬 **Ask me about**: Web Development, React, and UI/UX Design
 
 ## 🛠 Tech Stack
 
